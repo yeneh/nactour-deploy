@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CaR_m4Xc.js";import{t}from"./site-layout-BWJmiheG.js";var n=e(),r=({error:e})=>(0,n.jsx)(t,{children:(0,n.jsx)(`div`,{className:`container-page py-32 text-center`,children:(0,n.jsx)(`p`,{className:`text-muted-foreground`,children:e.message})})});export{r as errorComponent};
